@@ -1,0 +1,16 @@
+export const REST_SUB_URL = {
+  SIGN_UP: '/api/v1/auth/signup',
+  LOGIN: '/api/v1/auth/login',
+  FORGOT_PASSWORD: '/api/v1/auth/forgot-password',
+  VERIFY_RESET_PASSWORD: '/api/v1/auth/verify-reset-password',
+  RESET_PASSWORD: '/api/v1/auth/reset-password',
+  USER_DATA: '/api/v1/users/{id}',
+  PROFILE: '/api/v1/users/profile',
+  BOOKING: '/api/v1/booking/create',
+  BOOKING_ALL: '/api/v1/booking/all',
+  BOOKING_ID: '/api/v1/booking/{id}',
+  ADD_ATTACHMENTS: '/api/v1/attachments/add',
+  // UPLOAD_ATTACHMENTS: '/api/v1/attachments/upload',
+  REVIEW_BOOKINGS: '/api/v1/reviews/bookings',
+  UPLOAD_ATTACHMENTS: '/api/v1/upload',
+};

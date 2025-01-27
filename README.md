@@ -1,1 +1,2 @@
-# ed-frontend
+# ed-customer
+Reactjs - Customer Platform for Equipment Daddy

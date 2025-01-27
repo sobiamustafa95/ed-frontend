@@ -1,0 +1,496 @@
+{
+  "common": {
+    "select": "Select",
+    "drag&drop": "Drag & Drop",
+    "or": "Or",
+    "browseFile": "Browse File",
+    "fromDevice": "From Device",
+    "uploading": "Uploading...",
+    "fileSizeError": "File size should be less than 5MB",
+    "uploadComplete": "Upload Complete",
+    "noDataAvailable": "No Data Available!",
+    "error": "Oops, Something Went Wrong!"
+  },
+  "authWrapperText": {
+    "title": "Here's A Quick Overview Of Your Current Status And Activities",
+    "footerText": "equipment-daddy, Inc."
+  },
+  "dashboard": {
+    "title": "Welcome Back, {{userName}}",
+    "desc": "Here’s an overview of your platform’s current activity.",
+    "alt": "Welcome to equipment-daddy, Inc."
+  },
+  "passwordValidationText": {
+    "required": "*Password is required.",
+    "charLength": "*Password must be at least 8 characters long.",
+    "lowerCase": "*Password must contain at least one lowercase letter.",
+    "upperCase": "*Password must contain at least one uppercase letter.",
+    "number": "*Password must contain at least one number.",
+    "specialChar": "*Password must contain at least one special character.",
+    "searchOrType": "Select or Type",
+    "hidePassword": "Hide password",
+    "showPassword": "Show password"
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "desc": "Please enter the required personal details.",
+    "btnText": "Sign Up",
+    "btnTwoText": "Sign Up with Google",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "signUpAs": "Sign up as",
+    "select": "Select",
+    "name": "Full Name",
+    "namePlaceholder": "Enter full name",
+    "email": "Email",
+    "emailPlaceholder": "Enter email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter password",
+    "phone": "Phone",
+    "phonePlaceholder": "Enter phone number",
+    "backTo": "Back to Sign in",
+    "continue": "Continue",
+    "success": "Sign up successful!"
+  },
+  "signIn": {
+    "title": "Sign in",
+    "desc": "Please sign in to continue to your account.",
+    "btnText": "Sign In",
+    "googleSignIn": "Sign In with Google",
+    "facebookSignIn": "Sign In with Facebook",
+    "needAnAccount": "Need an account?",
+    "signUp": "Create one",
+    "forgotPass": "Forgot password?",
+    "rememberMe": "Remember me",
+    "email": "Email",
+    "emailPlaceholder": "Enter email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter password",
+    "success": "Login successful!",
+    "hidePassword": "Hide password",
+    "showPassword": "Show password"
+  },
+  "setNewPassScreen": {
+    "title": "Reset Password",
+    "desc": "Please enter the new password.",
+    "newPassword": "New Password",
+    "passwordPlaceholder": "Enter password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter password",
+    "btnText": "Confirm",
+    "backTo": "Back to Sign in",
+    "success": "Password reset successful!"
+  },
+  "forgotPasswordEmailScreen": {
+    "title": "Forgot Password",
+    "desc": "Please enter your email to recover your password.",
+    "descWithEmail": "Enter the OTP sent to {{emailAddress}}",
+    "email": "Email",
+    "emailPlaceholder": "Enter email",
+    "btnText": "Get Verification Code",
+    "backTo": "Back to Sign in ",
+    "minute": "min",
+    "seconds": "sec",
+    "resendOtp": "Get Verification Code",
+    "didtGetCode": "Didn’t get OTP Code?",
+    "otpSend": "OTP sent to your email successfully!",
+    "otpVerified": "OTP verified!"
+  },
+  "technicianDetails": {
+    "title": "Sign up",
+    "desc": "Please enter the required professional details.",
+    "skillSet": "Skill set",
+    "experience": "Experience",
+    "certificate": "Certifications",
+    "certificationName": "Certification Name",
+    "experienceName": "Experience Name",
+    "addMoreExperience": "Add More Experience",
+    "addMoreCertificate": "Add More Certificate",
+    "removeBtn": "Remove",
+    "submitBtn": " Submit",
+    "pendingApproval": "Pending Approval!",
+    "pendingApprovalDesc": "We will notify you once we verify your credentials.",
+    "buttonText": "Return to Sign In",
+    "placeholder": "Type Here"
+  },
+  "sidebarRoutes": {
+    "bookings": "bookings",
+    "invoices": "invoices",
+    "chat": "chat",
+    "settings": "settings",
+    "notifications": "notifications",
+    "helpCenter": "help Center",
+    "logout": "logout"
+  },
+  "createRequest": {
+    "title": "Submit a Repair Request",
+    "desc": "Request repair service by entering details such as machinery type, repair issue, urgency level, images of equipment, location and service category.",
+    "btnText": "Submit Request",
+    "attachments": "Attachments",
+    "requestResponse": "Booking Request Successful!",
+    "requestDetails": "Your repair request has been successfully submitted.",
+    "close": "Close",
+    "viewBookDetails": "View Booking Details",
+    "requestCreated": "Request created successful"
+  },
+  "jobCompleted": {
+    "title": "Job Completed",
+    "submitBtn": "Submit",
+    "desc": "How would you rate this technician?",
+    "rating": "Rating:",
+    "feedback": "Feedback:",
+    "placeholder": "Type Here"
+  },
+  "availableJobs": {
+    "title": "Available jobs"
+  },
+  "history": {
+    "title": "History",
+    "filterButton": "Filter By Date",
+    "viewDetails": "View Details",
+    "tableData": {
+      "technician": "Technician",
+      "dateAndTime": "Date and Time",
+      "time": "Time",
+      "status": "Status",
+      "notes": "Notes",
+      "rating": "Rating"
+    }
+  },
+  "helpCenter": {
+    "title": "Help Center",
+    "faqs": "FAQ’s",
+    "errorPage": "404",
+    "topicNotFound": "Topic not found!",
+    "faqTopics": {
+      "accountManagement": "Account Management",
+      "requestingARepairService": "Requesting A Repair Service",
+      "realTimeTracking": "Real-Time Tracking",
+      "notifications": "Notifications",
+      "invoicingAndPayment": "Invoicing And Payment",
+      "reviewAndRating": "Review And Rating",
+      "technicalSupport": "Technical Support"
+    },
+    "chat": {
+      "name": "Raul",
+      "customerCare": "Customer Care Supervisor",
+      "inputPlaceholder": "Type Message...",
+      "text1": "Hey! Thanks for reaching out, I’m glad to help!",
+      "text2": "Hi Raul. Hopefully, we can fix this issue. I’ve been on the phone for a couple of hours unfortunately :(",
+      "text3": "What are three great applications of quantum computing?",
+      "text4": "Three great applications of quantum computing are optimization of complex problems, drug discovery, and cryptography."
+    },
+    "breadcrumbsError": "FAQ_TOPICS route requires an 'id' parameter"
+  },
+  "chatScreen": {
+    "messages": "Messages",
+    "newChat": "New Chat",
+    "typeYourMessage": "Type your message...",
+    "noMessages": "No Message(s)",
+    "startMessaging": "Select a chat to start messaging",
+    "sendMessage": "Send a message",
+    "broadcastMessage": "Broadcast a message",
+    "conversationExist": "Conversation already exists!",
+    "noChats": "No Chat(s)",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All"
+  },
+  "invoice": {
+    "title": "Invoice",
+    "invoicePayment": "Invoice Payment",
+    "paymentPage": "This is the Invoice Payment Page",
+    "tableData": {
+      "invoiceNo": "Invoice Number",
+      "technician": "Technician Name",
+      "status": "Status",
+      "date": "Date",
+      "dueDate": "Due Date",
+      "amount": "Amount",
+      "action": "Action"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "selectAll": "Select All",
+    "groupBy": "Group By:",
+    "date": "Date",
+    "notificationItem": {
+      "trackOrder": "Track Order",
+      "viewJobStatus": "View Job Status",
+      "viewSummary": "View Summary",
+      "viewDetails": "View Details"
+    }
+  },
+  "table": {
+    "rowsPerPage": "Rows per page",
+    "of10": "of 10",
+    "noDataAvailable": "No Data Available!"
+  },
+  "attachmentComponent": {
+    "attachment": "Attachments",
+    "pdfAttachment": "PDF Attachment",
+    "addAttachment": "Add Attachment",
+    "fileSizeExceeded": "*File size exceeded"
+  },
+  "errors": {
+    "email": {
+      "required": "*Email is required.",
+      "pattern": "*Enter a valid email.",
+      "invalid": "Invalid Phone Number Format."
+    },
+    "password": {
+      "required": "*Password is required.",
+      "minLength": "*Password must be at least 8 characters long.",
+      "lowercase": "*Password must include at least one lowercase letter.",
+      "uppercase": "*Password must include at least one uppercase letter.",
+      "number": "*Password must include at least one number.",
+      "specialChar": "*Password must contain at least one special character."
+    },
+    "confirmPassword": {
+      "required": "*Confirm Password is required.",
+      "match": "*Passwords do not match."
+    },
+    "firstName": {
+      "required": "*Full Name is required."
+    },
+    "lastName": {
+      "required": "*Full Name is required."
+    },
+    "role": {
+      "required": "*Role is required."
+    },
+    "phoneNumber": {
+      "required": "*Phone Number is required.",
+      "invalid": "*Invalid Phone Number Format."
+    },
+    "invalidEmail": {
+      "required": "Invalid Email Format"
+    },
+    "invalidPhoneNumber": {
+      "required": "Invalid Phone Number Format"
+    },
+    "commonError": {
+      "required": "Something went wrong!"
+    },
+    "technicianDetailsError": {
+      "required": "Skill set is required.",
+      "certificateError": "Certificate is required.",
+      "experienceError": "Experience is required."
+    },
+    "createRequest": {
+      "machineTypeRequired": "Machinery Type is required",
+      "repairIssueRequired": "Repair Issue is required",
+      "serviceCategoryRequired": "Service Category is required",
+      "urgencyRequired": "Urgency is required",
+      "addressRequired": "Address is required",
+      "notFound": "Failed to find the location. Please try again.",
+      "error": "An error occurred. Please try again.",
+      "missingApiKey": "API key is Missing",
+      "success": "Location found and marked on the map!",
+      "autoCompleteError": "Autocomplete ref is missing"
+    },
+    "breadcrumbs": {
+      "error": "useBreadcrumb must be used within a BreadcrumbProvider"
+    }
+  },
+  "geocoding": {
+    "heading": "Address",
+    "placeholder": "Type here"
+  },
+  "booking": {
+    "title": "Bookings",
+    "createBooking": "Create Bookings",
+    "viewDetails": "View Details",
+    "all": "All",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "tableData": {
+      "machine": "Machine",
+      "serviceCategory": "Service Category",
+      "notes": "Notes",
+      "urgency": "Urgency",
+      "date": "Date and Time",
+      "time": "Time",
+      "status": "Status",
+      "trackOrder": "Track Order",
+      "invoice": "Invoice",
+      "viewDetails": "View Details",
+      "statusBtn": {
+        "trackOrder": "Track Order",
+        "invoice": "Invoice",
+        "pending": "Pending",
+        "completed": "Completed"
+      }
+    }
+  },
+  "trackBooking": {
+    "title": "Track Bookings",
+    "viewDetails": "View Details",
+    "tableData": {
+      "machine": "Machine",
+      "serviceCategory": "Service Category",
+      "notes": "Notes",
+      "urgency": "Urgency",
+      "trackOrder": "Track Order",
+      "invoice": "Invoice",
+      "viewDetails": "View Details",
+      "statusBtn": {
+        "trackOrder": "Track Order"
+      }
+    }
+  },
+  "trackOrder": {
+    "bookingId": "Booking ID",
+    "bookingDate": "Booking Date",
+    "estimatedTime": "Estimated Time",
+    "name": "Name",
+    "specialization": "Specialization",
+    "contact": "Contact",
+    "invoiceBtn": "Invoice",
+    "chatBtn": "Chat",
+    "payment": "Payment",
+    "location": "Location",
+    "needHelp": "Need Help?",
+    "orderSummary": "Order Summary",
+    "serviceCost": "Service Cost",
+    "discountApplied": "Discount Applied",
+    "travelFee": "Travel Fee",
+    "tax": "Tax",
+    "totalDue": "Total Due",
+    "technicianImgAlt": "user profile image"
+  },
+  "progressBar": {
+    "bookingConfirmed": "Booking Confirmed",
+    "technicianEnRoute": "Technician En Route",
+    "inProgress": "In Progress",
+    "completed": "Completed"
+  },
+  "settings": {
+    "title": "Settings",
+    "settings_options": {
+      "editPersonalInformation": "Edit Personal Information",
+      "managePaymentMethod": "Manage payment methods",
+      "preferences": "Preferences",
+      "privacyPolicy": "Privacy Policy",
+      "breadcrumbsError": "something went wrong"
+    }
+  },
+  "editPersonalInfo": {
+    "title": "Edit Personal Information",
+    "file": "Choose File",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "edit": "Edit",
+    "upload": "Upload",
+    "updatePassword": "Update Password",
+    "cancelUpdatePassword": "Cancel Update Password",
+    "userName": "Full Name",
+    "usernamePlaceholder": "Enter Full Name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "someone@example.com",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "Enter Phone Number",
+    "success": "Profile updated successfully!",
+    "delete": "Delete",
+    "fileSizeLimit": "JPG, Or PNG, Max Size Of 500KB",
+    "fileSizeLimitExceeded": "File size exceeds the limit of 500KB."
+  },
+  "preferences": {
+    "title": "Preferences",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "notificationSettings": "Notification Settings",
+    "enableNotifications": "Enable Notifications",
+    "language": "Language"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "informationWeCollect": "Information We Collect",
+    "weMayCollect": "We may collect the following types of information:",
+    "sections": [
+      {
+        "title": "1.1 Personal Information",
+        "items": [
+          "Name, email address, phone number, and other contact details.",
+          "Login credentials, including those linked with social media or Google sign-ins."
+        ]
+      },
+      {
+        "title": "1.2 Location Data",
+        "items": [
+          "GPS location to enable features like repair location tracking and technician navigation."
+        ]
+      },
+      {
+        "title": "1.3 Transactional Data",
+        "items": [
+          "Payment details (e.g., credit/debit card information), invoices, and transaction history."
+        ]
+      },
+      {
+        "title": "1.4 Usage Data",
+        "items": [
+          "Information about your device, including IP address, browser type, operating system, and app usage data."
+        ]
+      },
+      {
+        "title": "1.5 Media Files",
+        "items": [
+          "Images or videos uploaded to the platform for repair service requests or during technician updates."
+        ]
+      }
+    ],
+    "howWeUse": "How We Use Your Information",
+    "weUseYourInfo": "We use your information to:",
+    "uses": [
+      "Facilitate account creation and logins.",
+      "Process and manage repair service requests and job details.",
+      "Enable real-time tracking and provide status updates.",
+      "Process payments and generate invoices.",
+      "Improve user experience through analytics and feedback.",
+      "Communicate important updates, such as notifications and support responses."
+    ],
+    "infoSharing": "Information Sharing and Disclosure",
+    "infoSharingDesc": "We do not sell or rent your information to third parties. However, we may share your data in the following scenarios:",
+    "details": [
+      "With Technicians: To provide job details and enable communication for repair services.",
+      "Service Providers: With third-party vendors who help us process payments or analyze app performance.",
+      "Legal Compliance: If required by law or to protect the safety and rights of our users."
+    ],
+    "data_retention": {
+      "title": "Data Retention",
+      "description": "We retain your information for as long as necessary to fulfill the purposes outlined in this policy unless a longer retention period is required by law."
+    },
+    "your_rights": {
+      "title": "Your Rights",
+      "description": "You have the right to:",
+      "details": [
+        "Access, update, or delete your personal information.",
+        "Opt-out of marketing communications.",
+        "Request a copy of your data or restrict its processing."
+      ],
+      "contact": "To exercise these rights, contact us at [Insert Contact Email]."
+    },
+    "security_of_your_information": {
+      "title": "Security of Your Information",
+      "description": "We use industry-standard measures to protect your data. However, no electronic storage method is 100% secure, and we cannot guarantee absolute security."
+    },
+    "cookies_and_tracking": {
+      "title": "Cookies and Tracking Technologies",
+      "description": "Our Services may use cookies or similar technologies to enhance user experience and track usage patterns. You can manage cookie preferences through your device settings."
+    },
+    "third_party_links": {
+      "title": "Third-Party Links",
+      "description": "Our app may contain links to third-party websites or services. We are not responsible for their privacy practices."
+    },
+    "updates_to_privacy_policy": {
+      "title": "Updates to This Privacy Policy",
+      "description": "We may update this policy from time to time. Changes will be communicated through the app or website. Please review this policy periodically for updates."
+    }
+  },
+  "managePaymentMethods": {
+    "title": "Manage Payment Methods",
+    "addNew": "Add New",
+    "paymentMethod": "Stripe"
+  }
+}
